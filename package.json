@@ -1,0 +1,11 @@
+{
+  "name": "doc-tools",
+  "version": "1.0.0",
+  "description": "process email files office documents and pdfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Luetgers <andrew.luetgers@gmail.com> (http://www.andrewluetgers.com/)",
+  "license": "ISC"
+}
